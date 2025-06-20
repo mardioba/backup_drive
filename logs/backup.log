@@ -1,0 +1,425 @@
+2025-06-18 17:10:47,208 INFO: file_cache is only supported with oauth2client<4.0.0
+2025-06-18 17:10:51,023 INFO: Arquivo enviado: /home/mardio/script/sync_rclone.sh (ID: 1xHV4zV5MgVsao9q-0ozGq-Upbjn6CBG7)
+2025-06-18 17:10:51,032 INFO: Backup personalizado: /home/mardio/script/sync_rclone.sh
+2025-06-18 17:10:51,942 INFO: file_cache is only supported with oauth2client<4.0.0
+2025-06-18 17:10:54,230 INFO: Arquivo enviado: /home/mardio/script/zenmap_7.94-2_all.deb (ID: 1GyBeWCkacwHAehQEAmd_66ALIqCbmGG-)
+2025-06-18 17:10:54,238 INFO: Backup personalizado: /home/mardio/script/zenmap_7.94-2_all.deb
+2025-06-18 17:10:55,929 INFO: Arquivo enviado: /home/mardio/script/sync_rclone.sh (ID: 1rXehBxDiA7ctnxT-NSOznjnTRMVomqg6)
+2025-06-18 17:10:55,937 INFO: Backup personalizado: /home/mardio/script/sync_rclone.sh
+2025-06-18 17:10:57,657 INFO: Arquivo enviado: /home/mardio/script/criar_atalho.sh (ID: 1oWp77gGV1lqtvlGwVZkjm7RDw3UfILY0)
+2025-06-18 17:10:57,666 INFO: Backup personalizado: /home/mardio/script/criar_atalho.sh
+2025-06-18 17:10:59,238 INFO: Arquivo enviado: /home/mardio/script/zenmap_7.94-2_all.deb (ID: 1b3f0BidsWB3zzi2B0wDSxLwQiSBEpsoe)
+2025-06-18 17:10:59,246 INFO: Backup personalizado: /home/mardio/script/zenmap_7.94-2_all.deb
+2025-06-18 17:11:00,287 INFO: Arquivo enviado: /home/mardio/script/start_vm_and_rdp.sh (ID: 16nUc2kGgGaBl6Fw8i4vsVoPjaxc1SLmW)
+2025-06-18 17:11:00,300 INFO: Backup personalizado: /home/mardio/script/start_vm_and_rdp.sh
+2025-06-18 17:11:02,823 INFO: Arquivo enviado: /home/mardio/script/criar_atalho.sh (ID: 1PtC6PMZsvsHCCbsE-nIRZeV34uB82m4V)
+2025-06-18 17:11:02,832 INFO: Backup personalizado: /home/mardio/script/criar_atalho.sh
+2025-06-18 17:11:03,181 INFO: Arquivo enviado: /home/mardio/script/wget-log (ID: 1mKFkZjh-lq4W59Yt_ycOw0MnJZM39SaO)
+2025-06-18 17:11:03,190 INFO: Backup personalizado: /home/mardio/script/wget-log
+2025-06-18 17:11:05,509 INFO: Arquivo enviado: /home/mardio/script/start_vm_and_rdp.sh (ID: 1Z9M35UE-wS4aHkghmsjpI0AXMlQsh-lK)
+2025-06-18 17:11:05,521 INFO: Backup personalizado: /home/mardio/script/start_vm_and_rdp.sh
+2025-06-18 17:11:06,590 INFO: Arquivo enviado: /home/mardio/script/instalar_firefox.sh (ID: 1OXulRDfgT0GWIq_mTTOjfOwRDNvwKAzf)
+2025-06-18 17:11:06,599 INFO: Backup personalizado: /home/mardio/script/instalar_firefox.sh
+2025-06-18 17:11:08,290 INFO: Arquivo enviado: /home/mardio/script/wget-log (ID: 1NF_rB7eavQu-iBRaU4tPEl2Md2MuhKb5)
+2025-06-18 17:11:08,299 INFO: Backup personalizado: /home/mardio/script/wget-log
+2025-06-18 17:11:09,366 INFO: Arquivo enviado: /home/mardio/script/rn.py (ID: 1Fl73YbxQmuyi1Y6c6fpTL8X5h4ueT5t7)
+2025-06-18 17:11:09,374 INFO: Backup personalizado: /home/mardio/script/rn.py
+2025-06-18 17:11:11,092 INFO: Arquivo enviado: /home/mardio/script/instalar_firefox.sh (ID: 1F9Eo9DdyLo8kxxX4y4qD7yB0nKXUnycB)
+2025-06-18 17:11:11,099 INFO: Backup personalizado: /home/mardio/script/instalar_firefox.sh
+2025-06-18 17:11:12,408 INFO: Arquivo enviado: /home/mardio/script/acentuacao.py (ID: 1_ARISjjFsZvDZ8wB7WnrNVKZa-S3vs9k)
+2025-06-18 17:11:12,417 INFO: Backup personalizado: /home/mardio/script/acentuacao.py
+2025-06-18 17:11:14,003 INFO: Arquivo enviado: /home/mardio/script/rn.py (ID: 17p0KIHb6inrQHyrsg5dmGyo0O3_Igl6t)
+2025-06-18 17:11:14,012 INFO: Backup personalizado: /home/mardio/script/rn.py
+2025-06-18 17:11:15,872 INFO: Arquivo enviado: /home/mardio/script/python_ambiente.sh (ID: 1xxb0Ucowjn7HX9-HOLQdZe0P4IXe7zcG)
+2025-06-18 17:11:15,881 INFO: Backup personalizado: /home/mardio/script/python_ambiente.sh
+2025-06-18 17:11:16,535 INFO: Arquivo enviado: /home/mardio/script/acentuacao.py (ID: 1irFjm92kacdXknW_fmVWRl-t3mYs-41h)
+2025-06-18 17:11:16,543 INFO: Backup personalizado: /home/mardio/script/acentuacao.py
+2025-06-18 17:11:18,984 INFO: Arquivo enviado: /home/mardio/script/composer-setup.php (ID: 1cdJTYaQ3su3FTu-VKa2Xpp9CAL5BcdN2)
+2025-06-18 17:11:18,992 INFO: Backup personalizado: /home/mardio/script/composer-setup.php
+2025-06-18 17:11:19,101 INFO: Arquivo enviado: /home/mardio/script/python_ambiente.sh (ID: 1XJSzlTubnOKu7uHJWU7-wy4p8z74j8uM)
+2025-06-18 17:11:19,109 INFO: Backup personalizado: /home/mardio/script/python_ambiente.sh
+2025-06-18 17:11:21,822 INFO: Arquivo enviado: /home/mardio/script/pdf_seguro.py (ID: 13-pZYAFV3a82cm0Jx_3-AyLbQ_EU_Qsz)
+2025-06-18 17:11:21,830 INFO: Backup personalizado: /home/mardio/script/pdf_seguro.py
+2025-06-18 17:11:22,024 INFO: Arquivo enviado: /home/mardio/script/composer-setup.php (ID: 1ehhrLftzl7IZUHquRqiD9SDr5CTHoe1H)
+2025-06-18 17:11:22,034 INFO: Backup personalizado: /home/mardio/script/composer-setup.php
+2025-06-18 17:11:24,556 INFO: Arquivo enviado: /home/mardio/script/cmd.txt (ID: 1NjADAwtLg3f1VasMiGZ6Nwm5urq-A5u0)
+2025-06-18 17:11:24,565 INFO: Backup personalizado: /home/mardio/script/cmd.txt
+2025-06-18 17:11:24,926 INFO: Arquivo enviado: /home/mardio/script/pdf_seguro.py (ID: 1GaYEG8nMUdaxrLI_RTuFEIuo4KmqWJD5)
+2025-06-18 17:11:24,934 INFO: Backup personalizado: /home/mardio/script/pdf_seguro.py
+2025-06-18 17:11:27,315 INFO: Arquivo enviado: /home/mardio/script/cmd.txt (ID: 1NaC0eKb4IjeFT7dlQpPUh-Oi0Hrvi4wH)
+2025-06-18 17:11:27,324 INFO: Backup personalizado: /home/mardio/script/cmd.txt
+2025-06-18 17:11:27,543 INFO: Arquivo enviado: /home/mardio/script/main.py (ID: 17pkzrYpPuqCgYxT-etSWvwJUWbW0EdQA)
+2025-06-18 17:11:27,552 INFO: Backup personalizado: /home/mardio/script/main.py
+2025-06-18 17:11:30,123 INFO: Arquivo enviado: /home/mardio/script/pasta_usuario.py (ID: 10f-sqnEStBzUOQRsAYZkogpogZdtsosT)
+2025-06-18 17:11:30,130 INFO: Backup personalizado: /home/mardio/script/pasta_usuario.py
+2025-06-18 17:11:30,445 INFO: Arquivo enviado: /home/mardio/script/main.py (ID: 1Pq8FOtohQaBvTJllZCJcMxWFFHTMYIpD)
+2025-06-18 17:11:30,452 INFO: Backup personalizado: /home/mardio/script/main.py
+2025-06-18 17:11:33,009 INFO: Arquivo enviado: /home/mardio/script/virtualmin-install.sh (ID: 1Y-NWCaEeb4EPiqMVfI88XtaO5fUroa_2)
+2025-06-18 17:11:33,024 INFO: Backup personalizado: /home/mardio/script/virtualmin-install.sh
+2025-06-18 17:11:33,406 INFO: Arquivo enviado: /home/mardio/script/pasta_usuario.py (ID: 1uvtcVnBf-kJ4g-RqP9ivepqI4hYrJ2XO)
+2025-06-18 17:11:33,415 INFO: Backup personalizado: /home/mardio/script/pasta_usuario.py
+2025-06-18 17:11:35,927 INFO: Arquivo enviado: /home/mardio/script/girar.py (ID: 1p1bFiqEn0U_F_I1SdT34A8xGKjLYY82Y)
+2025-06-18 17:11:35,935 INFO: Backup personalizado: /home/mardio/script/girar.py
+2025-06-18 17:11:36,279 INFO: Arquivo enviado: /home/mardio/script/virtualmin-install.sh (ID: 1-pngUla7e_SPx2RuU0vQmh8gXxtbcgse)
+2025-06-18 17:11:36,287 INFO: Backup personalizado: /home/mardio/script/virtualmin-install.sh
+2025-06-18 17:11:38,512 INFO: Arquivo enviado: /home/mardio/script/teste.py (ID: 1vP8CruO2yiwmnHyi165Kb21zdmvnZfgP)
+2025-06-18 17:11:38,521 INFO: Backup personalizado: /home/mardio/script/teste.py
+2025-06-18 17:11:38,753 INFO: Arquivo enviado: /home/mardio/script/girar.py (ID: 1GmeU7IqVXdUH4_hxcJXsIXBf1dkuU3An)
+2025-06-18 17:11:38,764 INFO: Backup personalizado: /home/mardio/script/girar.py
+2025-06-18 17:11:41,275 INFO: Arquivo enviado: /home/mardio/script/virtualmin-uninstall.log (ID: 1yuScrrJoKBoTCYWuLglYiszVMe3bzHCz)
+2025-06-18 17:11:41,284 INFO: Backup personalizado: /home/mardio/script/virtualmin-uninstall.log
+2025-06-18 17:11:41,336 INFO: Arquivo enviado: /home/mardio/script/teste.py (ID: 1Y_DhP2pgHiw5KtuY5iakz9FaNCJE4R2B)
+2025-06-18 17:11:41,345 INFO: Backup personalizado: /home/mardio/script/teste.py
+2025-06-18 17:11:44,158 INFO: Arquivo enviado: /home/mardio/script/virtualmin-uninstall.log (ID: 1i_meGPfKsWQkPR_hIAAkrKA3vNtT4yeb)
+2025-06-18 17:11:44,165 INFO: Backup personalizado: /home/mardio/script/virtualmin-uninstall.log
+2025-06-18 17:11:44,360 INFO: Arquivo enviado: /home/mardio/script/zenmap-7.94-1.noarch.rpm (ID: 1lmonHpAq0a4UZ8oWmBHjF5Fpm-IMNFhq)
+2025-06-18 17:11:44,368 INFO: Backup personalizado: /home/mardio/script/zenmap-7.94-1.noarch.rpm
+2025-06-18 17:11:46,748 INFO: Arquivo enviado: /home/mardio/script/install_mariadb_phpmyadmin.sh (ID: 1S2aFTohkvbWoBrkjeRqVaxESF0Zg5uaX)
+2025-06-18 17:11:46,756 INFO: Backup personalizado: /home/mardio/script/install_mariadb_phpmyadmin.sh
+2025-06-18 17:11:46,944 INFO: Arquivo enviado: /home/mardio/script/zenmap-7.94-1.noarch.rpm (ID: 1-_J2XKAX8vM6JZiE9rB-fpcabti4nwCs)
+2025-06-18 17:11:46,954 INFO: Backup personalizado: /home/mardio/script/zenmap-7.94-1.noarch.rpm
+2025-06-18 17:11:49,626 INFO: Arquivo enviado: /home/mardio/script/install_mariadb_phpmyadmin.sh (ID: 1Ntsd9PW2scIKBPoQbGrz-4FN3t1Ye5Yk)
+2025-06-18 17:11:49,634 INFO: Backup personalizado: /home/mardio/script/install_mariadb_phpmyadmin.sh
+2025-06-18 17:11:51,184 INFO: Arquivo enviado: /home/mardio/script/mt5setup.exe (ID: 1Q2IVu9LEw8T5ZyY2ZSSxz41rchUoShct)
+2025-06-18 17:11:51,193 INFO: Backup personalizado: /home/mardio/script/mt5setup.exe
+2025-06-18 17:11:53,864 INFO: Arquivo enviado: /home/mardio/script/install_firefox_develope.sh (ID: 1f9WyT89zkFxqYyN-ZFDm1Mzq9rilizhV)
+2025-06-18 17:11:53,873 INFO: Backup personalizado: /home/mardio/script/install_firefox_develope.sh
+2025-06-18 17:11:53,970 INFO: Arquivo enviado: /home/mardio/script/mt5setup.exe (ID: 1KGrgmxrTAomi7lxCCCiq7hI-zylzaQ5M)
+2025-06-18 17:11:53,978 INFO: Backup personalizado: /home/mardio/script/mt5setup.exe
+2025-06-18 17:11:56,237 INFO: Arquivo enviado: /home/mardio/script/recuperar_xfce.sh (ID: 1ywuO21HgMXgNuKfj9AgeUBT35a1u_jZG)
+2025-06-18 17:11:56,247 INFO: Backup personalizado: /home/mardio/script/recuperar_xfce.sh
+2025-06-18 17:11:56,449 INFO: Arquivo enviado: /home/mardio/script/install_firefox_develope.sh (ID: 17pix_tNTwHMUTclDLNpDBDYCUX86oN6k)
+2025-06-18 17:11:56,457 INFO: Backup personalizado: /home/mardio/script/install_firefox_develope.sh
+2025-06-18 17:11:58,853 INFO: Arquivo enviado: /home/mardio/script/recuperar_xfce.sh (ID: 1dcieuflDYuuNIfGle0achWhO03gZeWIz)
+2025-06-18 17:11:58,860 INFO: Backup personalizado: /home/mardio/script/recuperar_xfce.sh
+2025-06-18 17:11:59,256 INFO: Arquivo enviado: /home/mardio/script/verificar_ips.py (ID: 114qwCUqQZcdTNMpj1J4dQLZkZ_W5Zwo0)
+2025-06-18 17:11:59,267 INFO: Backup personalizado: /home/mardio/script/verificar_ips.py
+2025-06-18 17:12:01,314 INFO: Arquivo enviado: /home/mardio/script/verificar_ips.py (ID: 1bxdcOLsxQbgbIJkBGu14vSCNRPMlFKUH)
+2025-06-18 17:12:01,323 INFO: Backup personalizado: /home/mardio/script/verificar_ips.py
+2025-06-18 17:12:02,011 INFO: Arquivo enviado: /home/mardio/script/renomear.py (ID: 12Istgfjkt8DhJ8VFAkCCIivgV3MlRpom)
+2025-06-18 17:12:02,020 INFO: Backup personalizado: /home/mardio/script/renomear.py
+2025-06-18 17:12:04,171 INFO: Arquivo enviado: /home/mardio/script/renomear.py (ID: 1dLGPtSj2bWNptYc0zn982-hS46zZRMHZ)
+2025-06-18 17:12:04,179 INFO: Backup personalizado: /home/mardio/script/renomear.py
+2025-06-18 17:12:04,342 INFO: Arquivo enviado: /home/mardio/script/links.txt (ID: 1CeURFHfXmrzOXBCq78TbQmx9v2bsuMPO)
+2025-06-18 17:12:04,350 INFO: Backup personalizado: /home/mardio/script/links.txt
+2025-06-18 17:12:06,739 INFO: Arquivo enviado: /home/mardio/script/download_yt.py (ID: 1zJleKenD78x2IEyuzgGaOxdWYN5Pbtf-)
+2025-06-18 17:12:06,749 INFO: Backup personalizado: /home/mardio/script/download_yt.py
+2025-06-18 17:12:06,815 INFO: Arquivo enviado: /home/mardio/script/links.txt (ID: 1ExYqe-DqiiQHPIulXEWRGjP9BQGHn0Qs)
+2025-06-18 17:12:06,823 INFO: Backup personalizado: /home/mardio/script/links.txt
+2025-06-18 17:12:09,311 INFO: Arquivo enviado: /home/mardio/script/sublime_install.sh (ID: 1aMVXmA-nbhp4SKrgLj8kap5n1TxfOChT)
+2025-06-18 17:12:09,319 INFO: Backup personalizado: /home/mardio/script/sublime_install.sh
+2025-06-18 17:12:09,540 INFO: Arquivo enviado: /home/mardio/script/download_yt.py (ID: 10wH98Grq4Lbb76R9bbSq2la10Myh5g30)
+2025-06-18 17:12:09,548 INFO: Backup personalizado: /home/mardio/script/download_yt.py
+2025-06-18 17:12:11,998 INFO: Arquivo enviado: /home/mardio/script/tamanho.py (ID: 1qsV-vF6szkzl3ig9nU619bQEUfFiePLA)
+2025-06-18 17:12:12,007 INFO: Backup personalizado: /home/mardio/script/tamanho.py
+2025-06-18 17:12:12,229 INFO: Arquivo enviado: /home/mardio/script/sublime_install.sh (ID: 1LYfchwzOySwRkrQJHI8zsdb-_XFDJq2e)
+2025-06-18 17:12:12,237 INFO: Backup personalizado: /home/mardio/script/sublime_install.sh
+2025-06-18 17:12:14,706 INFO: Arquivo enviado: /home/mardio/script/criar_arq.sh (ID: 1EQNKLoZqNoSqyA2YKV1rV_Skxwia_bVl)
+2025-06-18 17:12:14,714 INFO: Backup personalizado: /home/mardio/script/criar_arq.sh
+2025-06-18 17:12:14,889 INFO: Arquivo enviado: /home/mardio/script/tamanho.py (ID: 1Qt0BlBU9JXTjSmTR_hyeOqzKCxJ9D-Ht)
+2025-06-18 17:12:14,897 INFO: Backup personalizado: /home/mardio/script/tamanho.py
+2025-06-18 17:12:17,518 INFO: Arquivo enviado: /home/mardio/script/criar_arq.sh (ID: 1U501nrig6rnR0VuXl0kW8gnDMSO51I-b)
+2025-06-18 17:12:17,527 INFO: Backup personalizado: /home/mardio/script/criar_arq.sh
+2025-06-18 17:12:17,769 INFO: Arquivo enviado: /home/mardio/script/mt5debian.sh (ID: 1d2oNeZ9uinZ1ljJrandEcIE0N-nmW2Q_)
+2025-06-18 17:12:17,777 INFO: Backup personalizado: /home/mardio/script/mt5debian.sh
+2025-06-18 17:12:20,009 INFO: Arquivo enviado: /home/mardio/script/mt5debian.sh (ID: 13hjG__8S75_fyPGVxULBopWoJie5IJlL)
+2025-06-18 17:12:20,018 INFO: Backup personalizado: /home/mardio/script/mt5debian.sh
+2025-06-18 17:12:20,315 INFO: Arquivo enviado: /home/mardio/script/vscode_install.sh (ID: 11thTOsPiZQ7j31manydUU8cfPMh-3iKA)
+2025-06-18 17:12:20,324 INFO: Backup personalizado: /home/mardio/script/vscode_install.sh
+2025-06-18 17:12:22,483 INFO: Arquivo enviado: /home/mardio/script/vscode_install.sh (ID: 1S2yi6d7V0Fq1FSxduyCgLCUp6T6DV2Ar)
+2025-06-18 17:12:22,502 INFO: Backup personalizado: /home/mardio/script/vscode_install.sh
+2025-06-18 17:12:23,305 INFO: Arquivo enviado: /home/mardio/script/arquivo.txt (ID: 1ZNlajuYkrRApDPKxlmXtuc0-4mGUc5kg)
+2025-06-18 17:12:23,315 INFO: Backup personalizado: /home/mardio/script/arquivo.txt
+2025-06-18 17:12:25,588 INFO: Arquivo enviado: /home/mardio/script/arquivo.txt (ID: 1WsoNJAhrdqwqknTHgk9HToFOUCi8xlil)
+2025-06-18 17:12:25,607 INFO: Backup personalizado: /home/mardio/script/arquivo.txt
+2025-06-18 17:12:25,829 INFO: Arquivo enviado: /home/mardio/script/senha_mysql.txt (ID: 1k0ZZKPd0RSiGDMcWvVAFi7x8du4GfgHJ)
+2025-06-18 17:12:25,838 INFO: Backup personalizado: /home/mardio/script/senha_mysql.txt
+2025-06-18 17:12:28,011 INFO: Arquivo enviado: /home/mardio/script/arquivos/arquivo_9.txt (ID: 1MC-Uzrr4YfIi8-9jrn0YALYCsUajXrtA)
+2025-06-18 17:12:28,020 INFO: Backup personalizado: /home/mardio/script/arquivos/arquivo_9.txt
+2025-06-18 17:12:28,617 INFO: Arquivo enviado: /home/mardio/script/senha_mysql.txt (ID: 1p9iOSBMaXvU9G6Vnmp-qxWoJ0rKaUZzI)
+2025-06-18 17:12:28,626 INFO: Backup personalizado: /home/mardio/script/senha_mysql.txt
+2025-06-18 17:12:30,698 INFO: Arquivo enviado: /home/mardio/script/arquivos/arquivo_8.txt (ID: 1DSQ893V3qXe7tlszhfTRB4GGph20nU9g)
+2025-06-18 17:12:30,706 INFO: Backup personalizado: /home/mardio/script/arquivos/arquivo_8.txt
+2025-06-18 17:12:31,462 INFO: Arquivo enviado: /home/mardio/script/arquivos/arquivo_9.txt (ID: 1_0tVQKByTwdV7_ohdoGDBu8zJSd6qcVe)
+2025-06-18 17:12:31,471 INFO: Backup personalizado: /home/mardio/script/arquivos/arquivo_9.txt
+2025-06-18 17:12:33,252 INFO: Arquivo enviado: /home/mardio/script/arquivos/arquivo_4.txt (ID: 1dY3S0zFsFfiUSAIXgxD3UsuaSXLYKzk5)
+2025-06-18 17:12:33,262 INFO: Backup personalizado: /home/mardio/script/arquivos/arquivo_4.txt
+2025-06-18 17:12:36,458 INFO: Arquivo enviado: /home/mardio/script/arquivos/arquivo_2.txt (ID: 1b7RSX8SJrKIh12ZDj1bGQrP_6Uh-VQ-l)
+2025-06-18 17:12:36,466 INFO: Backup personalizado: /home/mardio/script/arquivos/arquivo_2.txt
+2025-06-18 17:12:38,229 INFO: Arquivo enviado: /home/mardio/script/arquivos/arquivo_8.txt (ID: 10m5KavQmfGPh8Kg_p2jWvSA1I67bSZ0K)
+2025-06-18 17:12:38,238 INFO: Backup personalizado: /home/mardio/script/arquivos/arquivo_8.txt
+2025-06-18 17:12:38,914 INFO: Arquivo enviado: /home/mardio/script/arquivos/arquivo_1.txt (ID: 18pvbW-WfSA_zIiXQIK-8NJkSYj9kljpy)
+2025-06-18 17:12:38,925 INFO: Backup personalizado: /home/mardio/script/arquivos/arquivo_1.txt
+2025-06-18 17:12:40,733 INFO: Arquivo enviado: /home/mardio/script/arquivos/arquivo_4.txt (ID: 1naO34efIyRzbBKXWCsvp_mvArB-zwtd7)
+2025-06-18 17:12:40,742 INFO: Backup personalizado: /home/mardio/script/arquivos/arquivo_4.txt
+2025-06-18 17:12:41,348 INFO: Arquivo enviado: /home/mardio/script/arquivos/arquivo_6.txt (ID: 1HE1OWTUZ8cF2R9vQblJ1zksntlxGadIH)
+2025-06-18 17:12:41,357 INFO: Backup personalizado: /home/mardio/script/arquivos/arquivo_6.txt
+2025-06-18 17:12:43,198 INFO: Arquivo enviado: /home/mardio/script/arquivos/arquivo_2.txt (ID: 1ryDPiCO_k_aGTNA_VpUuPmJrCI21pi0I)
+2025-06-18 17:12:43,206 INFO: Backup personalizado: /home/mardio/script/arquivos/arquivo_2.txt
+2025-06-18 17:12:43,644 INFO: Arquivo enviado: /home/mardio/script/arquivos/arquivo_5.txt (ID: 10MgbFBAgjJAe8JEiVrcA9wAD8jELELRV)
+2025-06-18 17:12:43,654 INFO: Backup personalizado: /home/mardio/script/arquivos/arquivo_5.txt
+2025-06-18 17:12:45,948 INFO: Arquivo enviado: /home/mardio/script/arquivos/arquivo_1.txt (ID: 1RjyNVlJEvgLoZzhIGPd5Oa9PEvW1WayG)
+2025-06-18 17:12:45,957 INFO: Backup personalizado: /home/mardio/script/arquivos/arquivo_1.txt
+2025-06-18 17:12:46,004 INFO: Arquivo enviado: /home/mardio/script/arquivos/arquivo_7.txt (ID: 1lbeURSD8otWNq4GWPQbimxKzV-_CFlG3)
+2025-06-18 17:12:46,013 INFO: Backup personalizado: /home/mardio/script/arquivos/arquivo_7.txt
+2025-06-18 17:12:48,388 INFO: Arquivo enviado: /home/mardio/script/arquivos/arquivo_6.txt (ID: 1M11Q5k7g-9Ectzt2A3WrCw_Qpn8XQavy)
+2025-06-18 17:12:48,397 INFO: Backup personalizado: /home/mardio/script/arquivos/arquivo_6.txt
+2025-06-18 17:12:48,642 INFO: Arquivo enviado: /home/mardio/script/arquivos/arquivo_3.txt (ID: 1VTiM6whVJUx-4OyH25DY7towUduiiNZe)
+2025-06-18 17:12:48,651 INFO: Backup personalizado: /home/mardio/script/arquivos/arquivo_3.txt
+2025-06-18 17:12:50,956 INFO: Arquivo enviado: /home/mardio/script/arquivos/arquivo_10.txt (ID: 1Yp_W0poQ4vpGEJZMTlWKqxPtOle4ewN1)
+2025-06-18 17:12:50,971 INFO: Backup personalizado: /home/mardio/script/arquivos/arquivo_10.txt
+2025-06-18 17:12:51,008 INFO: Arquivo enviado: /home/mardio/script/arquivos/arquivo_5.txt (ID: 1ukEof4eT-StifF5omnkTmrEp8UOBgtID)
+2025-06-18 17:12:51,016 INFO: Backup personalizado: /home/mardio/script/arquivos/arquivo_5.txt
+2025-06-18 17:12:53,737 INFO: Arquivo enviado: /home/mardio/script/arquivos/criar_arq.sh (ID: 1SYGlfA-UTiUSqlIID2X_jexIApMZaKkp)
+2025-06-18 17:12:53,747 INFO: Backup personalizado: /home/mardio/script/arquivos/criar_arq.sh
+2025-06-18 17:12:53,987 INFO: Arquivo enviado: /home/mardio/script/arquivos/arquivo_7.txt (ID: 1d9c3L7dH9AfcYRR8v-NKm93z4k8mDBfj)
+2025-06-18 17:12:53,995 INFO: Backup personalizado: /home/mardio/script/arquivos/arquivo_7.txt
+2025-06-18 17:12:56,120 INFO: Arquivo enviado: /home/mardio/script/arquivos/arquivo_3.txt (ID: 1KO0dw73s8iIPW1CyN8JnhE0Rj1ZmsNUd)
+2025-06-18 17:12:56,129 INFO: Backup personalizado: /home/mardio/script/arquivos/arquivo_3.txt
+2025-06-18 17:12:56,366 INFO: Arquivo enviado: /home/mardio/script/arquivos/tmp/subsub.txt (ID: 1jKtpS_TOfCxKV-bcv4GPuijp2bPLlCMk)
+2025-06-18 17:12:56,374 INFO: Backup personalizado: /home/mardio/script/arquivos/tmp/subsub.txt
+2025-06-18 17:12:59,012 INFO: Arquivo enviado: /home/mardio/script/firefox/libmozsandbox.so (ID: 18bl6XOX1klNOmN0pvpkMNPoACYuIC9oP)
+2025-06-18 17:12:59,028 INFO: Backup personalizado: /home/mardio/script/firefox/libmozsandbox.so
+2025-06-18 17:12:59,953 INFO: Arquivo enviado: /home/mardio/script/arquivos/arquivo_10.txt (ID: 18OVpizRIXblVaq-6UtwYnuvhdcNpcBZx)
+2025-06-18 17:12:59,962 INFO: Backup personalizado: /home/mardio/script/arquivos/arquivo_10.txt
+2025-06-18 17:13:01,497 INFO: Arquivo enviado: /home/mardio/script/firefox/liblgpllibs.so (ID: 1aqNa82BFzGRCHkoW5G6j7JUtBLK_-fgs)
+2025-06-18 17:13:01,505 INFO: Backup personalizado: /home/mardio/script/firefox/liblgpllibs.so
+2025-06-18 17:13:02,763 INFO: Arquivo enviado: /home/mardio/script/arquivos/criar_arq.sh (ID: 1TCzpZMWk7ValNI9CjWDfEAqOzM5otqLg)
+2025-06-18 17:13:02,774 INFO: Backup personalizado: /home/mardio/script/arquivos/criar_arq.sh
+2025-06-18 17:13:04,048 INFO: Arquivo enviado: /home/mardio/script/firefox/firefox-bin.sig (ID: 1KFmcnyoT_6WwP7jOv81rgz2KCi9FrVX9)
+2025-06-18 17:13:04,056 INFO: Backup personalizado: /home/mardio/script/firefox/firefox-bin.sig
+2025-06-18 17:13:05,257 INFO: Arquivo enviado: /home/mardio/script/arquivos/tmp/subsub.txt (ID: 15EDNEB7Kkrf-QM3znP9Yfu9QhUIQcuE2)
+2025-06-18 17:13:05,267 INFO: Backup personalizado: /home/mardio/script/arquivos/tmp/subsub.txt
+2025-06-18 17:13:08,198 INFO: Arquivo enviado: /home/mardio/script/firefox/libmozsandbox.so (ID: 1fik48g4bhDDUTHSDnTN6eZSoLvH8mcIU)
+2025-06-18 17:13:08,207 INFO: Backup personalizado: /home/mardio/script/firefox/libmozsandbox.so
+2025-06-18 17:13:08,664 INFO: Arquivo enviado: /home/mardio/script/firefox/libgkcodecs.so (ID: 1mZ0AFKxJR_X902QcABNTf4LQ8PApUQYb)
+2025-06-18 17:13:08,678 INFO: Backup personalizado: /home/mardio/script/firefox/libgkcodecs.so
+2025-06-18 17:13:10,676 INFO: Arquivo enviado: /home/mardio/script/firefox/liblgpllibs.so (ID: 1a7jJKDDk9eoyu1iZXwVYk0UzOP1SV6Iv)
+2025-06-18 17:13:10,685 INFO: Backup personalizado: /home/mardio/script/firefox/liblgpllibs.so
+2025-06-18 17:13:11,041 INFO: Arquivo enviado: /home/mardio/script/firefox/libplds4.so (ID: 1CdwOmIEKI1Xc63ZcU45mTu5ID2nshuVx)
+2025-06-18 17:13:11,049 INFO: Backup personalizado: /home/mardio/script/firefox/libplds4.so
+2025-06-18 17:13:13,049 INFO: Arquivo enviado: /home/mardio/script/firefox/firefox-bin.sig (ID: 1ohnvB4mUkAWaE9pnaWlv2EyiCDN7L_Qg)
+2025-06-18 17:13:13,059 INFO: Backup personalizado: /home/mardio/script/firefox/firefox-bin.sig
+2025-06-18 17:13:14,019 INFO: Arquivo enviado: /home/mardio/script/firefox/libnss3.so (ID: 1wYBK4cXL7-hg01LbNuozpwe4_JPoyLb6)
+2025-06-18 17:13:14,027 INFO: Backup personalizado: /home/mardio/script/firefox/libnss3.so
+2025-06-18 17:13:17,406 INFO: Arquivo enviado: /home/mardio/script/firefox/libgkcodecs.so (ID: 1oX4C5xjhan0WXyLyEPL2mYTo2ixLulX4)
+2025-06-18 17:13:17,415 INFO: Backup personalizado: /home/mardio/script/firefox/libgkcodecs.so
+2025-06-18 17:13:17,456 INFO: Arquivo enviado: /home/mardio/script/firefox/libmozavutil.so (ID: 1zSn-7SRv7WQ5OY12oc4QO-PQ7X9dBGKL)
+2025-06-18 17:13:17,464 INFO: Backup personalizado: /home/mardio/script/firefox/libmozavutil.so
+2025-06-18 17:13:20,071 INFO: Arquivo enviado: /home/mardio/script/firefox/libplds4.so (ID: 1t-NDmxaKITRJHpQsqOkltum-cHYKb5aF)
+2025-06-18 17:13:20,079 INFO: Backup personalizado: /home/mardio/script/firefox/libplds4.so
+2025-06-18 17:13:20,287 INFO: Arquivo enviado: /home/mardio/script/firefox/libsoftokn3.so (ID: 1GFcr3Qm5qmDM4yYcYx3GAOBrt_5JYkiT)
+2025-06-18 17:13:20,296 INFO: Backup personalizado: /home/mardio/script/firefox/libsoftokn3.so
+2025-06-18 17:13:23,237 INFO: Arquivo enviado: /home/mardio/script/firefox/libnss3.so (ID: 1JgQHDwCevwk8bT28p_Q4qZj77f9FqZGc)
+2025-06-18 17:13:23,249 INFO: Backup personalizado: /home/mardio/script/firefox/libnss3.so
+2025-06-18 17:13:26,445 INFO: Arquivo enviado: /home/mardio/script/firefox/libmozavutil.so (ID: 1uSZdLYarkZulW3QGSUDukMyAs4RE9oQ_)
+2025-06-18 17:13:26,457 INFO: Backup personalizado: /home/mardio/script/firefox/libmozavutil.so
+2025-06-18 17:13:29,227 INFO: Arquivo enviado: /home/mardio/script/firefox/libsoftokn3.so (ID: 1EhvvLrNM9DbjDHhiupcbP39-vl0uBomf)
+2025-06-18 17:13:29,237 INFO: Backup personalizado: /home/mardio/script/firefox/libsoftokn3.so
+2025-06-18 17:13:35,019 INFO: Arquivo enviado: /home/mardio/script/firefox/libxul.so (ID: 1mAY0okAgV6AtoMaS2dQVJLs8r58yuJho)
+2025-06-18 17:13:35,027 INFO: Backup personalizado: /home/mardio/script/firefox/libxul.so
+2025-06-18 17:13:38,181 INFO: Arquivo enviado: /home/mardio/script/firefox/libssl3.so (ID: 1DtXZYOqKWHqE-UIu03Ah-OnwJ2cfW60g)
+2025-06-18 17:13:38,190 INFO: Backup personalizado: /home/mardio/script/firefox/libssl3.so
+2025-06-18 17:13:42,407 INFO: Arquivo enviado: /home/mardio/script/firefox/libnssutil3.so (ID: 1eS4LHWpkPkfiDAaogNa_lSXPCaj9B0dN)
+2025-06-18 17:13:42,421 INFO: Backup personalizado: /home/mardio/script/firefox/libnssutil3.so
+2025-06-18 17:13:44,843 INFO: Arquivo enviado: /home/mardio/script/firefox/update-settings.ini (ID: 1wfPgQhuU6DvxoxdASCPzdLQDcTuQwg4F)
+2025-06-18 17:13:44,851 INFO: Backup personalizado: /home/mardio/script/firefox/update-settings.ini
+2025-06-18 17:13:45,616 INFO: Arquivo enviado: /home/mardio/script/firefox/libxul.so (ID: 1qswdpKKVyKNCRchzbfGezZuy3YUlta2g)
+2025-06-18 17:13:45,629 INFO: Backup personalizado: /home/mardio/script/firefox/libxul.so
+2025-06-18 17:13:48,341 INFO: Arquivo enviado: /home/mardio/script/firefox/crashreporter (ID: 1heRocNhrfa7FBjWBmvjCT5JIC4cN8nOW)
+2025-06-18 17:13:48,349 INFO: Backup personalizado: /home/mardio/script/firefox/crashreporter
+2025-06-18 17:13:48,522 INFO: Arquivo enviado: /home/mardio/script/firefox/libssl3.so (ID: 1WnV8Ph8e_zG0VJbFzgmJnvJ1k5SQ1DmS)
+2025-06-18 17:13:48,530 INFO: Backup personalizado: /home/mardio/script/firefox/libssl3.so
+2025-06-18 17:13:51,237 INFO: Arquivo enviado: /home/mardio/script/firefox/libfreeblpriv3.so (ID: 1LiZzxNmDs2iALVChh3HC5tiLt0wFF2Mp)
+2025-06-18 17:13:51,245 INFO: Backup personalizado: /home/mardio/script/firefox/libfreeblpriv3.so
+2025-06-18 17:13:51,324 INFO: Arquivo enviado: /home/mardio/script/firefox/libnssutil3.so (ID: 1AgXjgpvoDK2afnMOLVX9H1e0pQYoeWxk)
+2025-06-18 17:13:51,333 INFO: Backup personalizado: /home/mardio/script/firefox/libnssutil3.so
+2025-06-18 17:13:53,880 INFO: Arquivo enviado: /home/mardio/script/firefox/update-settings.ini (ID: 1Wd9I-klvKIVmc46ibPwwfWJZ7soiZ4pC)
+2025-06-18 17:13:53,888 INFO: Backup personalizado: /home/mardio/script/firefox/update-settings.ini
+2025-06-18 17:13:53,938 INFO: Arquivo enviado: /home/mardio/script/firefox/dependentlibs.list (ID: 1hdSBGtzfRClbRTsYDKGwMjemp5-9Dapr)
+2025-06-18 17:13:53,947 INFO: Backup personalizado: /home/mardio/script/firefox/dependentlibs.list
+2025-06-18 17:13:56,607 INFO: Arquivo enviado: /home/mardio/script/firefox/updater.ini (ID: 1zPxxL0yZjlBAOHDjtZ9x0jBg9UvyL8y8)
+2025-06-18 17:13:56,615 INFO: Backup personalizado: /home/mardio/script/firefox/updater.ini
+2025-06-18 17:13:57,651 INFO: Arquivo enviado: /home/mardio/script/firefox/crashreporter (ID: 11mJHrof00v-HdJ1CbOtGmKV4eYbuRRxB)
+2025-06-18 17:13:57,659 INFO: Backup personalizado: /home/mardio/script/firefox/crashreporter
+2025-06-18 17:13:59,558 INFO: Arquivo enviado: /home/mardio/script/firefox/updater (ID: 1F1fpsrFKYWXhyrd6FhjSuKXNGWhPAdil)
+2025-06-18 17:13:59,568 INFO: Backup personalizado: /home/mardio/script/firefox/updater
+2025-06-18 17:14:00,979 INFO: Arquivo enviado: /home/mardio/script/firefox/libfreeblpriv3.so (ID: 11zTJXyEX7vWVDwME3SkT-Vp6eOvXo_0S)
+2025-06-18 17:14:00,988 INFO: Backup personalizado: /home/mardio/script/firefox/libfreeblpriv3.so
+2025-06-18 17:14:02,247 INFO: Arquivo enviado: /home/mardio/script/firefox/pingsender (ID: 1dZfv00M7BlJn_H_RCJ3uWxwSnh7svy4t)
+2025-06-18 17:14:02,263 INFO: Backup personalizado: /home/mardio/script/firefox/pingsender
+2025-06-18 17:14:03,285 INFO: Arquivo enviado: /home/mardio/script/firefox/dependentlibs.list (ID: 1S_lMgiUKcDLkc051uX7-YnaMlYI1iRok)
+2025-06-18 17:14:03,295 INFO: Backup personalizado: /home/mardio/script/firefox/dependentlibs.list
+2025-06-18 17:14:04,857 INFO: Arquivo enviado: /home/mardio/script/firefox/libxul.so.sig (ID: 16rd_DyHoliccpQuAb5ME1QwOdxbY2WqW)
+2025-06-18 17:14:04,867 INFO: Backup personalizado: /home/mardio/script/firefox/libxul.so.sig
+2025-06-18 17:14:05,760 INFO: Arquivo enviado: /home/mardio/script/firefox/updater.ini (ID: 1paDw8lZhaBba8Z0bD3QbPXyeXiHJgZj7)
+2025-06-18 17:14:05,768 INFO: Backup personalizado: /home/mardio/script/firefox/updater.ini
+2025-06-18 17:14:07,555 INFO: Arquivo enviado: /home/mardio/script/firefox/libnspr4.so (ID: 1hPMZF_ht5QT7LIqvaEu9j4aS0XwkMnLl)
+2025-06-18 17:14:07,565 INFO: Backup personalizado: /home/mardio/script/firefox/libnspr4.so
+2025-06-18 17:14:07,912 INFO: Arquivo enviado: /home/mardio/script/firefox/updater (ID: 1VOx_rFQlMzJG31ihgQ2eDodDDlcX5vg1)
+2025-06-18 17:14:07,921 INFO: Backup personalizado: /home/mardio/script/firefox/updater
+2025-06-18 17:14:10,158 INFO: Arquivo enviado: /home/mardio/script/firefox/firefox (ID: 15Ggpvj8biXqpSBzOWmrTe5UMCJ3V77qF)
+2025-06-18 17:14:10,166 INFO: Backup personalizado: /home/mardio/script/firefox/firefox
+2025-06-18 17:14:10,880 INFO: Arquivo enviado: /home/mardio/script/firefox/pingsender (ID: 1cApKy7FupthRTRF_TIRCqiJYk1XSC_hl)
+2025-06-18 17:14:10,891 INFO: Backup personalizado: /home/mardio/script/firefox/pingsender
+2025-06-18 17:14:13,128 INFO: Arquivo enviado: /home/mardio/script/firefox/libxul.so.sig (ID: 1mU35MRyA52we6DlmoDkYvntdToyxFdxL)
+2025-06-18 17:14:13,139 INFO: Backup personalizado: /home/mardio/script/firefox/libxul.so.sig
+2025-06-18 17:14:16,197 INFO: Arquivo enviado: /home/mardio/script/firefox/libnspr4.so (ID: 1EN4nKJN-u5zG5XVqcxepvaGYCAQkaOCN)
+2025-06-18 17:14:16,208 INFO: Backup personalizado: /home/mardio/script/firefox/libnspr4.so
+2025-06-18 17:14:18,321 INFO: Arquivo enviado: /home/mardio/script/firefox/firefox (ID: 13FEmI7Eiry1CqYOxxRXkZlvCdk03fxAo)
+2025-06-18 17:14:18,330 INFO: Backup personalizado: /home/mardio/script/firefox/firefox
+2025-06-18 17:14:19,857 INFO: Arquivo enviado: /home/mardio/script/firefox/omni.ja (ID: 1QSyYr0_krdEMN8nJ--WA4BrB7Yl-76A8)
+2025-06-18 17:14:19,867 INFO: Backup personalizado: /home/mardio/script/firefox/omni.ja
+2025-06-18 17:14:22,900 INFO: Arquivo enviado: /home/mardio/script/firefox/libsmime3.so (ID: 1glxk7RhWcYCy9UYDkxhg96tOsOJauwPA)
+2025-06-18 17:14:22,916 INFO: Backup personalizado: /home/mardio/script/firefox/libsmime3.so
+2025-06-18 17:14:25,720 INFO: Arquivo enviado: /home/mardio/script/firefox/locale.ini (ID: 1Kd5lcy2BKumgpFS5SYYpo4d-yTwtHqfw)
+2025-06-18 17:14:25,734 INFO: Backup personalizado: /home/mardio/script/firefox/locale.ini
+2025-06-18 17:14:27,958 INFO: Arquivo enviado: /home/mardio/script/firefox/omni.ja (ID: 17EhhAThNkTdcK4cFB2b62_xkCphOtN5Z)
+2025-06-18 17:14:27,968 INFO: Backup personalizado: /home/mardio/script/firefox/omni.ja
+2025-06-18 17:14:28,101 INFO: Arquivo enviado: /home/mardio/script/firefox/vaapitest (ID: 1Zo0JruNJ-aH_1twPdqsm6496vO2DemCA)
+2025-06-18 17:14:28,110 INFO: Backup personalizado: /home/mardio/script/firefox/vaapitest
+2025-06-18 17:14:30,630 INFO: Arquivo enviado: /home/mardio/script/firefox/libsmime3.so (ID: 1Vbp84KAoe3uj1G3a9AV-Uy3Dmq_XHNGP)
+2025-06-18 17:14:30,639 INFO: Backup personalizado: /home/mardio/script/firefox/libsmime3.so
+2025-06-18 17:14:30,661 INFO: Arquivo enviado: /home/mardio/script/firefox/libmozgtk.so (ID: 17cTlZ7WD3n_vMetzqhdWR5-7mUVhm-dx)
+2025-06-18 17:14:30,669 INFO: Backup personalizado: /home/mardio/script/firefox/libmozgtk.so
+2025-06-18 17:14:33,190 INFO: Arquivo enviado: /home/mardio/script/firefox/firefox-bin (ID: 1x671IGR5ePgP46fwHAELIHOv-Ca_aOkX)
+2025-06-18 17:14:33,200 INFO: Backup personalizado: /home/mardio/script/firefox/firefox-bin
+2025-06-18 17:14:35,221 INFO: Arquivo enviado: /home/mardio/script/firefox/locale.ini (ID: 1U4cXnqFJAogWI-fkA9i8Ks6OPM4tTRkT)
+2025-06-18 17:14:35,231 INFO: Backup personalizado: /home/mardio/script/firefox/locale.ini
+2025-06-18 17:14:35,912 INFO: Arquivo enviado: /home/mardio/script/firefox/libplc4.so (ID: 1CWCSUwNF5iXhPhmTRlEOOm7TpAoFFAKi)
+2025-06-18 17:14:35,922 INFO: Backup personalizado: /home/mardio/script/firefox/libplc4.so
+2025-06-18 17:14:37,673 INFO: Arquivo enviado: /home/mardio/script/firefox/vaapitest (ID: 1qwh-hM1nOO11Bg8dDt7_jCSrdAaWlznI)
+2025-06-18 17:14:37,681 INFO: Backup personalizado: /home/mardio/script/firefox/vaapitest
+2025-06-18 17:14:39,308 INFO: Arquivo enviado: /home/mardio/script/firefox/libmozavcodec.so (ID: 1G5SK1hADOEgwzLGvpsTRWRwLvOJzqtJF)
+2025-06-18 17:14:39,316 INFO: Backup personalizado: /home/mardio/script/firefox/libmozavcodec.so
+2025-06-18 17:14:39,826 INFO: Arquivo enviado: /home/mardio/script/firefox/libmozgtk.so (ID: 1CLMQZrsAGANaLKrfvAGykqUhs5VmiC3g)
+2025-06-18 17:14:39,835 INFO: Backup personalizado: /home/mardio/script/firefox/libmozgtk.so
+2025-06-18 17:14:41,713 INFO: Arquivo enviado: /home/mardio/script/firefox/gmp-clearkey/0.1/manifest.json (ID: 18w9alB4szFSv9e3hfK_Xm8ugZUgPsSS6)
+2025-06-18 17:14:41,721 INFO: Backup personalizado: /home/mardio/script/firefox/gmp-clearkey/0.1/manifest.json
+2025-06-18 17:14:42,506 INFO: Arquivo enviado: /home/mardio/script/firefox/firefox-bin (ID: 1NBaiYiWclIIdSs6OZ_Js4Cx5Jn0xRT9O)
+2025-06-18 17:14:42,515 INFO: Backup personalizado: /home/mardio/script/firefox/firefox-bin
+2025-06-18 17:14:43,960 INFO: Arquivo enviado: /home/mardio/script/firefox/gmp-clearkey/0.1/libclearkey.so (ID: 1nUBQv6Qvft2BVaAxSfPQtwxctn7CQvLy)
+2025-06-18 17:14:43,968 INFO: Backup personalizado: /home/mardio/script/firefox/gmp-clearkey/0.1/libclearkey.so
+2025-06-18 17:14:44,956 INFO: Arquivo enviado: /home/mardio/script/firefox/libplc4.so (ID: 1gNxWtSWJWFsJMYw6bv9WUV4uHOjk__6p)
+2025-06-18 17:14:44,963 INFO: Backup personalizado: /home/mardio/script/firefox/libplc4.so
+2025-06-18 17:14:46,466 INFO: Arquivo enviado: /home/mardio/script/firefox/gmp-clearkey/0.1/libclearkey.so.sig (ID: 1IQts7AMnEsTWivSdNOz7dSTgJ3ocmhag)
+2025-06-18 17:14:46,475 INFO: Backup personalizado: /home/mardio/script/firefox/gmp-clearkey/0.1/libclearkey.so.sig
+2025-06-18 17:14:48,431 INFO: Arquivo enviado: /home/mardio/script/firefox/libmozavcodec.so (ID: 1CdmpMxC3UAmbyMjdILLDfaUU_zDUeYmY)
+2025-06-18 17:14:48,442 INFO: Backup personalizado: /home/mardio/script/firefox/libmozavcodec.so
+2025-06-18 17:14:49,234 INFO: Arquivo enviado: /home/mardio/script/firefox/icons/updater.png (ID: 1DKvPNnyvv3mabExrzq_Gj-UfBBB0Sx0W)
+2025-06-18 17:14:49,243 INFO: Backup personalizado: /home/mardio/script/firefox/icons/updater.png
+2025-06-18 17:14:51,266 INFO: Arquivo enviado: /home/mardio/script/firefox/gmp-clearkey/0.1/manifest.json (ID: 1HjgYPPlifM8BgoCo_6i05Lggi58RGXFV)
+2025-06-18 17:14:51,277 INFO: Backup personalizado: /home/mardio/script/firefox/gmp-clearkey/0.1/manifest.json
+2025-06-18 17:14:52,268 INFO: Arquivo enviado: /home/mardio/script/meu_remoto/temas/OLD/McOS-MJV-XFCE-Edition-2.3.tar.tar (ID: 1zTZQcwE38CQfHNkwDPnan5TaXYDTgIuJ)
+2025-06-18 17:14:52,276 INFO: Backup personalizado: /home/mardio/script/meu_remoto/temas/OLD/McOS-MJV-XFCE-Edition-2.3.tar.tar
+2025-06-18 17:14:53,406 INFO: Arquivo enviado: /home/mardio/script/firefox/gmp-clearkey/0.1/libclearkey.so (ID: 1o8YcKIofritlKyOCmvqqMSuYYFRdVQ11)
+2025-06-18 17:14:53,416 INFO: Backup personalizado: /home/mardio/script/firefox/gmp-clearkey/0.1/libclearkey.so
+2025-06-18 17:14:54,782 INFO: Arquivo enviado: /home/mardio/script/meu_remoto/temas/OLD/Orchis.tar.xz (ID: 1kOLWHSRFv2iRbFUaFHdZKjOsPOoaKUFD)
+2025-06-18 17:14:54,791 INFO: Backup personalizado: /home/mardio/script/meu_remoto/temas/OLD/Orchis.tar.xz
+2025-06-18 17:14:55,956 INFO: Arquivo enviado: /home/mardio/script/firefox/gmp-clearkey/0.1/libclearkey.so.sig (ID: 173c6nwgfCv6Geb8u3S5a8fn2R9_lfXLl)
+2025-06-18 17:14:55,965 INFO: Backup personalizado: /home/mardio/script/firefox/gmp-clearkey/0.1/libclearkey.so.sig
+2025-06-18 17:14:57,296 INFO: Arquivo enviado: /home/mardio/script/meu_remoto/temas/OLD/WhiteSur-Light.tar.xz (ID: 1OGVbOYdmJS7pmO79BIQ-_gYKTnBNijkd)
+2025-06-18 17:14:57,304 INFO: Backup personalizado: /home/mardio/script/meu_remoto/temas/OLD/WhiteSur-Light.tar.xz
+2025-06-18 17:14:58,457 INFO: Arquivo enviado: /home/mardio/script/firefox/icons/updater.png (ID: 10S5Hcms3mE1NI5-DuNZomwBijLO5oING)
+2025-06-18 17:14:58,466 INFO: Backup personalizado: /home/mardio/script/firefox/icons/updater.png
+2025-06-18 17:14:59,630 INFO: Arquivo enviado: /home/mardio/script/meu_remoto/temas/OLD/Fluent.tar.xz (ID: 13fGZD_4cOM3zXPDZ0X2ttZz9tonM5dXo)
+2025-06-18 17:14:59,640 INFO: Backup personalizado: /home/mardio/script/meu_remoto/temas/OLD/Fluent.tar.xz
+2025-06-18 17:15:01,251 INFO: Arquivo enviado: /home/mardio/script/meu_remoto/temas/OLD/McOS-MJV-XFCE-Edition-2.3.tar.tar (ID: 1wxjOrFOCZTPjHJDQZpidncLbhBK2bL6R)
+2025-06-18 17:15:01,260 INFO: Backup personalizado: /home/mardio/script/meu_remoto/temas/OLD/McOS-MJV-XFCE-Edition-2.3.tar.tar
+2025-06-18 17:15:02,628 INFO: Arquivo enviado: /home/mardio/script/meu_remoto/temas/icones/McMuse-circle.tar.xz (ID: 1KPOzR5vhQ36WwGSgm5oEuz2w2caCInB0)
+2025-06-18 17:15:02,636 INFO: Backup personalizado: /home/mardio/script/meu_remoto/temas/icones/McMuse-circle.tar.xz
+2025-06-18 17:15:04,142 INFO: Arquivo enviado: /home/mardio/script/meu_remoto/temas/OLD/Orchis.tar.xz (ID: 149fdW6rHlcTUIqSDvt8YFFhPashBLsVt)
+2025-06-18 17:15:04,155 INFO: Backup personalizado: /home/mardio/script/meu_remoto/temas/OLD/Orchis.tar.xz
+2025-06-18 17:15:06,753 INFO: Arquivo enviado: /home/mardio/script/meu_remoto/temas/OLD/WhiteSur-Light.tar.xz (ID: 1PlJxjCYbIE185QeNHGWJEhtdeQuih3lF)
+2025-06-18 17:15:06,757 INFO: Arquivo enviado: /home/mardio/script/meu_remoto/temas/icones/01-WhiteSur.tar.xz (ID: 1_G_ZOAH-vBgSmbjvMKZjFmET_JcBgWyK)
+2025-06-18 17:15:06,765 INFO: Backup personalizado: /home/mardio/script/meu_remoto/temas/OLD/WhiteSur-Light.tar.xz
+2025-06-18 17:15:06,785 INFO: Backup personalizado: /home/mardio/script/meu_remoto/temas/icones/01-WhiteSur.tar.xz
+2025-06-18 17:15:09,757 INFO: Arquivo enviado: /home/mardio/script/meu_remoto/temas/OLD/Fluent.tar.xz (ID: 11GS8yGcUDnmvi5-RIdrAaVrgKgg---Fg)
+2025-06-18 17:15:09,765 INFO: Backup personalizado: /home/mardio/script/meu_remoto/temas/OLD/Fluent.tar.xz
+2025-06-18 17:15:10,894 INFO: Arquivo enviado: /home/mardio/script/meu_remoto/temas/icones/01-McMojave-circle.tar.xz (ID: 1aHF-jgonNrIm-Td1a3cUDgjsgwwraMDP)
+2025-06-18 17:15:10,904 INFO: Backup personalizado: /home/mardio/script/meu_remoto/temas/icones/01-McMojave-circle.tar.xz
+2025-06-18 17:15:12,823 INFO: Arquivo enviado: /home/mardio/script/meu_remoto/temas/icones/McMuse-circle.tar.xz (ID: 1R7V0xdDkniENHHHLMMnusE5LPAfgOPHd)
+2025-06-18 17:15:12,832 INFO: Backup personalizado: /home/mardio/script/meu_remoto/temas/icones/McMuse-circle.tar.xz
+2025-06-18 17:15:13,533 INFO: Arquivo enviado: /home/mardio/script/meu_remoto/icones/menu.png (ID: 18OabcXsOBIUgVgcpll3dGZMo8b02wq4B)
+2025-06-18 17:15:13,543 INFO: Backup personalizado: /home/mardio/script/meu_remoto/icones/menu.png
+2025-06-18 17:15:16,262 INFO: Arquivo enviado: /home/mardio/script/menu/teste.sh (ID: 1yXqK4FSEG-fhHMq866SVzNBKUFpQODOx)
+2025-06-18 17:15:16,272 INFO: Backup personalizado: /home/mardio/script/menu/teste.sh
+2025-06-18 17:15:16,443 INFO: Arquivo enviado: /home/mardio/script/meu_remoto/temas/icones/01-WhiteSur.tar.xz (ID: 1TPTxshbj1e43FaC6qJRky51PyWX517WR)
+2025-06-18 17:15:16,451 INFO: Backup personalizado: /home/mardio/script/meu_remoto/temas/icones/01-WhiteSur.tar.xz
+2025-06-18 17:15:19,306 INFO: Arquivo enviado: /home/mardio/script/menu/resize_image.sh (ID: 1Bo3ltJoZzTDZL2XoSFYtn7IyRuQWmI2p)
+2025-06-18 17:15:19,314 INFO: Backup personalizado: /home/mardio/script/menu/resize_image.sh
+2025-06-18 17:15:20,172 INFO: Arquivo enviado: /home/mardio/script/meu_remoto/temas/icones/01-McMojave-circle.tar.xz (ID: 1ua7YwlZHJpxIAPwdjTdAOvhRdYUXlDdz)
+2025-06-18 17:15:20,181 INFO: Backup personalizado: /home/mardio/script/meu_remoto/temas/icones/01-McMojave-circle.tar.xz
+2025-06-18 17:15:21,784 INFO: Arquivo enviado: /home/mardio/script/bkp1/arquivo_9.txt (ID: 1o-vrsPlFT44Fm7wK8fKQ962hDVDrt33b)
+2025-06-18 17:15:21,792 INFO: Backup personalizado: /home/mardio/script/bkp1/arquivo_9.txt
+2025-06-18 17:15:22,541 INFO: Arquivo enviado: /home/mardio/script/meu_remoto/icones/menu.png (ID: 1NWvO7po7lj_GvNDwWmI8Q-zD5B9PGbJH)
+2025-06-18 17:15:22,550 INFO: Backup personalizado: /home/mardio/script/meu_remoto/icones/menu.png
+2025-06-18 17:15:24,593 INFO: Arquivo enviado: /home/mardio/script/bkp1/arquivo_8.txt (ID: 1z8t4FDNtK3OpYwywPkHTG1ciUZahhEO2)
+2025-06-18 17:15:24,602 INFO: Backup personalizado: /home/mardio/script/bkp1/arquivo_8.txt
+2025-06-18 17:15:25,414 INFO: Arquivo enviado: /home/mardio/script/menu/teste.sh (ID: 1fkH7dzlA0ChF0kZcAT7-yCXqKe97InRk)
+2025-06-18 17:15:25,425 INFO: Backup personalizado: /home/mardio/script/menu/teste.sh
+2025-06-18 17:15:27,193 INFO: Arquivo enviado: /home/mardio/script/bkp1/arquivo_4.txt (ID: 1DosiCr6IkgfQBU7npCz7RhDSH5-qxt-n)
+2025-06-18 17:15:27,202 INFO: Backup personalizado: /home/mardio/script/bkp1/arquivo_4.txt
+2025-06-18 17:15:28,142 INFO: Arquivo enviado: /home/mardio/script/menu/resize_image.sh (ID: 1Xbb4scwp_4dgQ4dNQvBwYb7U6pRIkB-S)
+2025-06-18 17:15:28,152 INFO: Backup personalizado: /home/mardio/script/menu/resize_image.sh
+2025-06-18 17:15:29,914 INFO: Arquivo enviado: /home/mardio/script/bkp1/arquivo_2.txt (ID: 1OigWeatCblPuQHpr3pTkVsf3rmQs7fNZ)
+2025-06-18 17:15:29,924 INFO: Backup personalizado: /home/mardio/script/bkp1/arquivo_2.txt
+2025-06-18 17:15:31,328 INFO: Arquivo enviado: /home/mardio/script/bkp1/arquivo_9.txt (ID: 1Idu0X4BHGzuKuQGQ1cbAf1GYs2YAHZ30)
+2025-06-18 17:15:31,336 INFO: Backup personalizado: /home/mardio/script/bkp1/arquivo_9.txt
+2025-06-18 17:15:33,390 INFO: Arquivo enviado: /home/mardio/script/bkp1/arquivo_1.txt (ID: 1enj_ZZ1m78Qq409wV9Fvk6dIhvexDskw)
+2025-06-18 17:15:33,399 INFO: Backup personalizado: /home/mardio/script/bkp1/arquivo_1.txt
+2025-06-18 17:15:33,949 INFO: Arquivo enviado: /home/mardio/script/bkp1/arquivo_8.txt (ID: 1H06EVWdtr89TXD8MW8OZLO2jiaOEIgqa)
+2025-06-18 17:15:33,961 INFO: Backup personalizado: /home/mardio/script/bkp1/arquivo_8.txt
+2025-06-18 17:15:35,748 INFO: Arquivo enviado: /home/mardio/script/bkp1/arquivo_6.txt (ID: 1ftbY91mF82Dh2u7edoyACcxWEaFJNR2N)
+2025-06-18 17:15:35,757 INFO: Backup personalizado: /home/mardio/script/bkp1/arquivo_6.txt
+2025-06-18 17:15:36,383 INFO: Arquivo enviado: /home/mardio/script/bkp1/arquivo_4.txt (ID: 1aOAl5Wx-bLG79tL2Kncbg15yEDLJVOeq)
+2025-06-18 17:15:36,392 INFO: Backup personalizado: /home/mardio/script/bkp1/arquivo_4.txt
+2025-06-18 17:15:38,148 INFO: Arquivo enviado: /home/mardio/script/bkp1/arquivo_5.txt (ID: 1_JOU7bDLeiJ3QZOLvm_VnariVF5Djnt8)
+2025-06-18 17:15:38,157 INFO: Backup personalizado: /home/mardio/script/bkp1/arquivo_5.txt
+2025-06-18 17:15:38,780 INFO: Arquivo enviado: /home/mardio/script/bkp1/arquivo_2.txt (ID: 1Smm3MqvJV_Hye1adJw1HPNAc8fvB-qgC)
+2025-06-18 17:15:38,788 INFO: Backup personalizado: /home/mardio/script/bkp1/arquivo_2.txt
+2025-06-18 17:15:40,680 INFO: Arquivo enviado: /home/mardio/script/bkp1/arquivo_7.txt (ID: 1oOfVdgmjNFvSpndH_qZxBHXcTwz5kvbr)
+2025-06-18 17:15:40,690 INFO: Backup personalizado: /home/mardio/script/bkp1/arquivo_7.txt
+2025-06-18 17:15:41,034 INFO: Arquivo enviado: /home/mardio/script/bkp1/arquivo_1.txt (ID: 112DOzTfzb0FFeOO0rprA6zZAKpdOdHUU)
+2025-06-18 17:15:41,043 INFO: Backup personalizado: /home/mardio/script/bkp1/arquivo_1.txt
+2025-06-18 17:15:43,072 INFO: Arquivo enviado: /home/mardio/script/bkp1/arquivo_3.txt (ID: 1-M6l84ds1_KKrWvTvDKJZRXmSeKqVM1L)
+2025-06-18 17:15:43,080 INFO: Backup personalizado: /home/mardio/script/bkp1/arquivo_3.txt
+2025-06-18 17:15:43,310 INFO: Arquivo enviado: /home/mardio/script/bkp1/arquivo_6.txt (ID: 1NdlbniEs_2F9IrVZU26hEutYSpmcgpWk)
+2025-06-18 17:15:43,318 INFO: Backup personalizado: /home/mardio/script/bkp1/arquivo_6.txt
+2025-06-18 17:15:45,578 INFO: Arquivo enviado: /home/mardio/script/bkp1/arquivo_10.txt (ID: 1NiuB9uQpSNdATVdwN4UZy3HIh7opSi43)
+2025-06-18 17:15:45,599 INFO: Backup personalizado: /home/mardio/script/bkp1/arquivo_10.txt
+2025-06-18 17:15:45,903 INFO: Arquivo enviado: /home/mardio/script/bkp1/arquivo_5.txt (ID: 1OCPX83erd21McezQEg6La4EIz-zVtT_4)
+2025-06-18 17:15:45,912 INFO: Backup personalizado: /home/mardio/script/bkp1/arquivo_5.txt
+2025-06-18 17:15:48,285 INFO: Arquivo enviado: /home/mardio/script/bkp1/criar_arq.sh (ID: 1CHvUolMoG0lKgfVRwvR0Je2TZ1uICSXW)
+2025-06-18 17:15:48,295 INFO: Backup personalizado: /home/mardio/script/bkp1/criar_arq.sh
+2025-06-18 17:15:48,655 INFO: Arquivo enviado: /home/mardio/script/bkp1/arquivo_7.txt (ID: 154DrDM2ZOzWMhJPfA1mM2fETBvNOY0yX)
+2025-06-18 17:15:48,669 INFO: Backup personalizado: /home/mardio/script/bkp1/arquivo_7.txt
+2025-06-18 17:15:51,232 INFO: Arquivo enviado: /home/mardio/script/bkp1/arquivo_3.txt (ID: 1Zkxih6NMzZucMWaMWzFK-YQqGPHLG4po)
+2025-06-18 17:15:51,242 INFO: Backup personalizado: /home/mardio/script/bkp1/arquivo_3.txt
+2025-06-18 17:15:53,476 INFO: Arquivo enviado: /home/mardio/script/bkp1/arquivo_10.txt (ID: 1EyMtWsofT8shuGQFN9GtQ2pJzMy2F5Nm)
+2025-06-18 17:15:53,484 INFO: Backup personalizado: /home/mardio/script/bkp1/arquivo_10.txt
+2025-06-18 17:15:55,648 INFO: Arquivo enviado: /home/mardio/script/bkp1/criar_arq.sh (ID: 1Fu-WHFrXCt6ZiBaA8vZH9dJ4RttmWjhU)
+2025-06-18 17:15:55,656 INFO: Backup personalizado: /home/mardio/script/bkp1/criar_arq.sh
+2025-06-19 07:18:36,398 INFO: file_cache is only supported with oauth2client<4.0.0
+2025-06-19 07:18:41,274 INFO: Arquivo enviado: /home/mardio/scripts/rn.py (ID: 10pxquFp5Y37_pdlFimYQv3W75cMPuc_K)
+2025-06-19 07:18:41,283 INFO: Backup personalizado: /home/mardio/scripts/rn.py
+2025-06-19 07:18:43,784 INFO: Arquivo enviado: /home/mardio/scripts/rkdeveloop_ld.sh (ID: 1xx0gZg6MJEmLMJnE1TXi2Q7c7MLPjwHb)
+2025-06-19 07:18:43,796 INFO: Backup personalizado: /home/mardio/scripts/rkdeveloop_ld.sh
+2025-06-19 07:18:46,968 INFO: Arquivo enviado: /home/mardio/scripts/ver.py (ID: 1Ssc5qdQ3K_5IsmnyulTRQ78j3s4e7Wn-)
+2025-06-19 07:18:46,977 INFO: Backup personalizado: /home/mardio/scripts/ver.py
+2025-06-19 07:18:49,986 INFO: Arquivo enviado: /home/mardio/scripts/escanear_windows.sh (ID: 1jtHb3fBux4162XGRh7s7HsFshCFviDPw)
+2025-06-19 07:18:49,994 INFO: Backup personalizado: /home/mardio/scripts/escanear_windows.sh
+2025-06-19 07:18:52,477 INFO: Arquivo enviado: /home/mardio/scripts/montar.sh (ID: 1iscl9LJzTHBxt859locm2yVxoaYgVk2Y)
+2025-06-19 07:18:52,486 INFO: Backup personalizado: /home/mardio/scripts/montar.sh
+2025-06-19 07:18:55,213 INFO: Arquivo enviado: /home/mardio/scripts/main.py (ID: 1gZxs2HsQY1_M815pfzMTkysdUWG1oqhX)
+2025-06-19 07:18:55,221 INFO: Backup personalizado: /home/mardio/scripts/main.py
+2025-06-19 07:18:57,846 INFO: Arquivo enviado: /home/mardio/scripts/teste.py (ID: 1_FUQirhv4FjcYVaBpAkHTxkQxymkB4gm)
+2025-06-19 07:18:57,854 INFO: Backup personalizado: /home/mardio/scripts/teste.py
+2025-06-19 07:19:00,560 INFO: Arquivo enviado: /home/mardio/scripts/converter_webp_para_png.sh (ID: 15wQ4Rpgl2nTQGLUXiNVoXwg_2vhZp0XA)
+2025-06-19 07:19:00,570 INFO: Backup personalizado: /home/mardio/scripts/converter_webp_para_png.sh
+2025-06-19 07:19:03,029 INFO: Arquivo enviado: /home/mardio/scripts/sincronismo_teste.txt (ID: 17JRBkn72BQ4YnAoimm99NLLc2ivIbk0N)
+2025-06-19 07:19:03,038 INFO: Backup personalizado: /home/mardio/scripts/sincronismo_teste.txt
+2025-06-19 07:19:05,574 INFO: Arquivo enviado: /home/mardio/scripts/install_LAMP.sh (ID: 1azDOTUJRdZ_lorg1Z6asaR8DVXfRsKBw)
+2025-06-19 07:19:05,583 INFO: Backup personalizado: /home/mardio/scripts/install_LAMP.sh
+2025-06-19 07:19:08,305 INFO: Arquivo enviado: /home/mardio/scripts/instalar_android_cmdtools.sh (ID: 1lAiKClBs0pHL7NV3MPwVw-9iXwRV0dPN)
+2025-06-19 07:19:08,321 INFO: Backup personalizado: /home/mardio/scripts/instalar_android_cmdtools.sh
