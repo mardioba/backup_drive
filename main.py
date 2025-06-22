@@ -21,6 +21,7 @@ def run_in_thread(target, *args):
 class BackupApp:
     def __init__(self, root):
         self.root = root
+        # self.root.config(bg='lightblue')
         self.root.title('Sistema de Backup para Google Drive')
         largura = root.winfo_screenwidth()
         self.root.geometry(f'{largura}x700')  # Aumenta largura e altura
